@@ -1,1 +1,2 @@
 print ("Goodbye bizaro ugly world")
+print ("Goodbye bizaro")
